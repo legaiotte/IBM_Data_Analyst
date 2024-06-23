@@ -1,6 +1,6 @@
 This repository contains the data and analysis from the IBM Capstone Project. The project aims to analyse current technology usage, predict future technology trends, and provide demographic information. The data is presented in three PDF documents, each containing four charts.
 
-[current_technology_usage.pdf](./Current_Technology_Usage.pdf)
+[current_technology_usage.pdf](./Current%20Technology%20Usage.pdf)
 
 Contains four charts analysing the current usage of various technologies.
 Charts included:
@@ -10,7 +10,7 @@ Charts included:
 - Chart 3: Platform worked with.
 - Chart 4: Top 10 Web frame worked with.
 
-[future_technology_trends.pdf](./Future_Technology_Trends.pdf)
+[future_technology_trends.pdf](./Future%20Technology%20Trends.pdf)
 Contains four charts predicting future technology trends.
 Charts included:
 - Chart 1: Respondent by gender.
