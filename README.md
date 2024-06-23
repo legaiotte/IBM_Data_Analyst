@@ -10,7 +10,7 @@ Charts included:
 - Chart 3: Platform worked with.
 - Chart 4: Top 10 Web frame worked with.
 
-[future_technology_trends.pdf](./Future%20Technology%20Trends.pdf)
+[future_technology_trends.pdf](./Future%20Technology%20Trend.pdf)
 Contains four charts predicting future technology trends.
 Charts included:
 - Chart 1: Respondent by gender.
