@@ -26,7 +26,7 @@ Charts included:
 - Chart 3: Educational background of technology users.
 - Chart 4: Income levels and their correlation with technology usage.
 
-[Final-capstone-story-template.pptx(1).pdf](./Final-capstone-story-template.pptx(1).pdf)
+[Final-capstone-story-template.pptx (1).pdf](Final-capstone-story-template.pptx (1).pdf)
 - Data Analysis report presentation
 - This presentation provides a comprehensive overview of the objectives, methodologies, key findings, and
 recommendations derived from the data analysis conducted by our team of experts.
